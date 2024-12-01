@@ -9,7 +9,7 @@ public class FahrenheitToCelsius
         // Declare a float variable to store the Fahrenheit temperature
         float fahrenheitTemp;
 
-        // Correctly initialize the Scanner object
+        // Correctly initialize the Scanner
         Scanner input = new Scanner(System.in);
 
         // Prompt the user to enter the temperature in Fahrenheit
