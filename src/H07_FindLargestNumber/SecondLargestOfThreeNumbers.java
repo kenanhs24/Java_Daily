@@ -18,7 +18,7 @@ public class SecondLargestOfThreeNumbers
 
         int secondLargest;
 
-        // Determine the second largest number
+        // Determine the second largest number among three numbers
         if ((x > y && x < z) || (x > z && x < y))
         {
             secondLargest = x;
